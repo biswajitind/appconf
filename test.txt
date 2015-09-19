@@ -1,9 +1,6 @@
 TEST
 one more commit in master 
-dev2 changes
-X
-X
-X
+dev & dev2 changes
 X
 X
 X
