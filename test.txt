@@ -1,4 +1,9 @@
 TEST
 one more commit in master 
 X
+A
 Checking in from detached head
+
+
+
+training modification
